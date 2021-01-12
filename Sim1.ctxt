@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Sim1
+comment0.text=\ Sim1.java\r\n\ Purpose\:\ Simulates\ the\ A\ and\ S\ allele\ being\ passed\ from\ one\ generation\ to\ the\ next,\ beginning\ with\ an\ equal\ amount\ \r\n\ of\ each\ allele.\ This\ method\ simulates\ environmental\ conditions\ where\ no\ allele\ is\ favored.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

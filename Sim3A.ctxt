@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Sim3A
+comment0.text=\ Sim3A.java\r\n\ Purpose\:\ Simulates\ the\ A\ and\ S\ allele\ being\ passed\ from\ one\ generation\ to\ the\ next,\ beginning\ with\ an\ equal\ amount\ \r\n\ of\ each\ allele.\ This\ method\ simulates\ environmental\ conditions\ where\ individuals\ homozygous\ for\ the\ S\ allele\ have\ \r\n\ a\ disorder\ that\ prevents\ them\ from\ surviving\ long\ enough\ to\ reproduce,\ and\ individuals\ heterozygous\ have\ an\ advantage\r\n\ in\ surviving\ until\ reproduction.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
